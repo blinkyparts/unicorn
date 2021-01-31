@@ -25,7 +25,7 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 ### Copyright and Authorship
 
 - Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Binary Kitchen e.V.
-- Unicorn SVG [[CC-BY-SA]](https://thenounproject.com/term/unicorn/2061795/) - Unicorn by Mooms from the Noun Project (We've bought a licence, you should honor the artist work too!)
+- Unicorn SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [Unicorn by Mooms from the Noun Project](https://thenounproject.com/term/unicorn/2061795/) (We've bought a licence, you should honor the artist work too!)
 - Idea and scheme: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - [Elektronikmuseum Tettnang](http://www.emuseum-tettnang.de/)
 
 ### Soldering Kit without PCB
